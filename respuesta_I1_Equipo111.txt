@@ -3,3 +3,8 @@ Monsalbo Lucio
 
 a- Si, veo los datos.
 b- Si, lo ven.
+
+c-Si, ya que se compartimos el mismo repositorio remoto.
+d-a traves de discord(una red social).
+e-la mejor forma de comunicarnos entre nosotros dentro de github son los debates de equipo.
+debido a que no se ve limitado a un solo proyecto ni a cambios espesificos como una solicitud de cambio.
